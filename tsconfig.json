@@ -11,6 +11,7 @@
     "moduleDetection": "force",
     "noEmit": true,
     "jsx": "preserve",
+    "types": ["vite/client", "node"],
     "strict": false,
     "baseUrl": ".",
     "paths": {
